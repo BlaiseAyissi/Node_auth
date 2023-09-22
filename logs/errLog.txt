@@ -1,0 +1,3 @@
+20230210	03:02:48	46d71057-0b5f-419e-8310-d44e9292d0f2	TypeError : fsPromises.readFil is not a function
+20230817	00:33:42	6fc56fbf-0843-4b91-a377-b08c7ca44b8f	Error :  not allowed by cors
+20230817	23:13:38	7fc26e4b-51d8-4ea1-a48f-8320523f5f89	Error : ENOENT: no such file or directory, stat 'C:\Users\DONALD\Downloads\Documents\TUTO\Node\views\subdir\test.html'
