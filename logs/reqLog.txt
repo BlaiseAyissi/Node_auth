@@ -143,3 +143,6 @@
 20230824	00:15:52	3a3a2155-a534-401a-ba19-144e8d6ddbab	POST	undefined	/employees
 20230824	00:16:06	c820671a-3321-4c47-9634-633827bb7f74	GET	undefined	/employees
 20230824	00:16:18	0c8b98d6-0cd4-4027-a001-42cf16ee4b72	DELETE	undefined	/employees
+20231017	18:57:20	c00ec19c-216c-491d-8072-76397954361c	GET	undefined	/
+20231017	18:57:20	1504f3dc-02cf-4393-aaf0-12c13ea6b0c7	GET	undefined	/css/style.css
+20231017	18:57:20	52c54ad0-b175-4a10-ba73-ba0cfd592c9f	GET	undefined	/favicon.ico
